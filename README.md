@@ -1,0 +1,2 @@
+# VostrokVM
+Vostrok Virtual Machine
